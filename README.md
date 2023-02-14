@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm TheAnonymousDarck</h1>
+<h1 align="center">Hi 👋, I'm Enrique Resendiz</h1>
 <h3 align="center">
-  Developer from México.
+  Developer Jr from México.
 </h3>
 
 ---

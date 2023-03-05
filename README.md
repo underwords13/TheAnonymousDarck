@@ -1,21 +1,7 @@
 <h1 align="center">Hi 👋, I'm TheAnonymousDarck</h1>
-<br />
-
-Hi, I'm Enrique Resendiz, a PHP developer from Mexico.
-
-### Skills
-- Python scripting
-- Web application development using Vue and Ionic
-- Backend development using PHP and Laravel
-- Mobile Application development using Flutter and Ionic
-- Some cloud skills in Azure and Oracle Cloud
-- Database SQL MySQl, PL/SQL, MariaDB
-- Database NoSQL Firebase
-
-<br/>
-
-
-# ⚒️ Languages:
+<h3 align="center">
+  Developer from México.
+</h3>
 
 <div align="center"> 
   <div> 

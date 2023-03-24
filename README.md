@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm TheAnonymousDarck</h1>
 
-Hi, I'm Enrique Resendiz, a PHP Jr developer from Mexico.
+Hi, I'm Enrique Resendiz, Jr developer and Oracle Cloud Developer/Jr Technical Consultant from Mexico.
 
 ### Skills
 - Python scripting

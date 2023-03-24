@@ -4,12 +4,12 @@ Hi, I'm Enrique Resendiz, Jr developer and Oracle Cloud Developer/Jr Technical C
 
 ### Skills
 - Python scripting
-- Web application development using Vue 
+- Web application development using Vue, Ionic
 - Backend development using Laravel
 - Mobile Application development using Flutter and Ionic
 - Some cloud skills using Azure, Firebase and Oracle Cloud
 - Database SQL using MySQL, MariaDB, Pl/SQL
-- Database NoSQL using Firebase
+- Database NoSQL using FireStore
 
 <br>
 
